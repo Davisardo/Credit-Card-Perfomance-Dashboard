@@ -39,5 +39,7 @@ This helps financial institutions understand portfolio health, customer behavior
 - Evaluate customer satisfaction and behavior patterns.  
 - Gain actionable insights for revenue optimization and risk reduction.  
 
+---
+
 > **Note:** This description presents only some of the main highlights; the complete project included deeper analytical processes, multiple iterations, and continuous enhancements aimed at improving usability, visual clarity, and decision-making impact.
 
